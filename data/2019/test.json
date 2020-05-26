@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Tom Brady",
+    "jersey": "12",
+    "current_team": "Tamba Bay Buccaneers",
+    "pass_attempts": 9988,
+    "completions": 6377,
+    "total_yards": 74571,
+    "touchdowns": 539,
+    "average_yards": 7.2,
+    "interceptions": 179,
+    "1st%": 34.57
+  },
+  {
+    "name": "Peyton Manning",
+    "jersey": "18",
+    "current_team": "Retired",
+    "pass_attempts": 9380,
+    "completions": 6125,
+    "total_yards": 71940,
+    "average_yards": 7.2,
+    "interceptions": 179,
+    "1st%": 34.57
+  },
+  {
+    "name": "Drew Brees",
+    "jersey": "12",
+    "current_team": "Tamba Bay Buccaneers",
+    "pass_attempts": 9988,
+    "completions": 6377,
+    "total_yards": 74571,
+    "average_yards": 7.2,
+    "interceptions": 179,
+    "1st%": 34.57
+  },
+  {
+    "name": "Aaron Rodgers",
+    "jersey": "12",
+    "current_team": "Tamba Bay Buccaneers",
+    "pass_attempts": 9988,
+    "completions": 6377,
+    "total_yards": 74571,
+    "average_yards": 7.2,
+    "interceptions": 179,
+    "1st%": 34.57
+  },
+  {
+    "name": "Russell Wilson",
+    "jersey": "12",
+    "current_team": "Tamba Bay Buccaneers",
+    "pass_attempts": 9988,
+    "completions": 6377,
+    "total_yards": 74571,
+    "average_yards": 7.2,
+    "interceptions": 179,
+    "1st%": 34.57
+  }
+]
